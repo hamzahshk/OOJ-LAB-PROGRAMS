@@ -1,0 +1,7 @@
+echo "# OOJ-LAB-PROGRAMS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hamzahshk/OOJ-LAB-PROGRAMS.git
+git push -u origin main
